@@ -1,0 +1,3 @@
+The current imgsizer plugin on devot-ee.com causes errors when using the remote="on" parameter.
+
+I created this fork to fix the errors. 
